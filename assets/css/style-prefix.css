@@ -548,7 +548,6 @@ body::-webkit-scrollbar-thumb:hover {
   #HEADER
 \*-----------------------------------*/
 
-.header-top,
 .header-user-actions,
 .desktop-navigation-menu {
   display: none;
